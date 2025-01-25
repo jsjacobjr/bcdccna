@@ -204,9 +204,9 @@ application
  service rivanqueue flash:app-b-acd-3.0.0.2.tcl
   param queue-len 15
   param aa-hunt1 2100
-  param aa-hunt2 2177
-  param aa-hunt3 2101
-  param aa-hunt4 2155
+  param aa-hunt2 2122
+  param aa-hunt3 2133
+  param aa-hunt4 2168
   param queue-manager-debugs 1
   param number-of-hunt-grps 4
 end
